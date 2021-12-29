@@ -28,5 +28,8 @@
         "url": "https://github.com/joelcede/theme-jioska-vs",
         "type": "git"
     },
-    "publisher": "firts-theme"
+    "publisher": "firts-theme",
+    "dependencies": {
+        "vsce": "^2.5.3"
+    }
 }
