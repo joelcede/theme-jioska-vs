@@ -1,0 +1,32 @@
+{
+    "name": "jioska-dark-red",
+    "displayName": "Jioska Dark Red",
+    "description": "Theme Dark Red",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jioska Dark Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jioska Dark Red-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/lg.png",
+    "author": {
+        "name": "Joel Cedeño Assuncion",
+        "email": "jioska_one@outlook.es",
+        "url": "https://www.linkedin.com/in/jioska/"
+    },
+    "repository": {
+        "url": "https://github.com/joelcede/theme-jioska-vs",
+        "type": "git"
+    },
+    "publisher": "firts-theme"
+}
